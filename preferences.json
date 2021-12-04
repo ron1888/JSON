@@ -1,7 +1,7 @@
 {
-	"favorite movie": "dog's heart",
-	"favorite series": "game of thrones",
-	"favorite eat": "hot-dog",
-	"favorite season": "summer",
-	"favorite country": "Japan"
+	"favorite_movie": "dog's heart",
+	"favorite_series": "game of thrones",
+	"favorite_eat": "hot-dog",
+	"favorite_season": "summer",
+	"favorite_country": "Japan"
 }
