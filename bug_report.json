@@ -1,7 +1,7 @@
 {
   "id": 1,
   "title": "What? Where? When?",
-  "severity": "low",
+  "severity": "Trivial",
   "author": "GDN",
   "build": "v0.1",
   "steps_to_reproduse": {
